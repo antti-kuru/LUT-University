@@ -1,0 +1,3 @@
+[submodule "OOP/Shoplist"]
+	path = OOP/Shoplist
+	url = https://github.com/antti-kuru/Shoplist.git
