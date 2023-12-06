@@ -1,3 +1,12 @@
 [submodule "OOP/Shoplist"]
 	path = OOP/Shoplist
 	url = https://github.com/antti-kuru/Shoplist.git
+[submodule "OOP/tabshoplist"]
+	path = OOP/tabshoplist
+	url = https://github.com/antti-kuru/tabshoplist.git
+[submodule "OOP/OlioWeek9"]
+	path = OOP/OlioWeek9
+	url = https://github.com/antti-kuru/OlioWeek9.git
+[submodule "OOP/olio-ohjelmointi-viikko8"]
+	path = OOP/olio-ohjelmointi-viikko8
+	url = https://github.com/antti-kuru/olio-ohjelmointi-viikko8.git
